@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\JSP 벡엔드 구현 연습\게시판 구현하기\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3166360663.index
+\BBS\src\main\java
+C:\JSP 벡엔드 구현 연습\게시판 구현하기\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\723433157.index
+\BBS\src\main\java
+C:\JSP 벡엔드 구현 연습\게시판 구현하기\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\977982817.index
+\BBS\src\main\java

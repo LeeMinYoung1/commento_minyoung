@@ -1,0 +1,9 @@
+127.0.0.1 - - [15/Jul/2022:20:05:54 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [15/Jul/2022:20:05:57 +0900] "GET /BBS/File_index.jsp HTTP/1.1" 200 430
+0:0:0:0:0:0:0:1 - - [15/Jul/2022:20:06:00 +0900] "GET /BBS/fileDownload.jsp HTTP/1.1" 500 2365
+0:0:0:0:0:0:0:1 - - [15/Jul/2022:20:08:45 +0900] "GET /BBS/File_index.jsp HTTP/1.1" 200 430
+0:0:0:0:0:0:0:1 - - [15/Jul/2022:20:08:47 +0900] "GET /BBS/fileDownload.jsp HTTP/1.1" 200 834
+127.0.0.1 - - [15/Jul/2022:20:25:54 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [15/Jul/2022:20:25:55 +0900] "GET /BBS/File_index.jsp HTTP/1.1" 200 430
+0:0:0:0:0:0:0:1 - - [15/Jul/2022:20:25:57 +0900] "GET /BBS/fileDownload.jsp HTTP/1.1" 200 834
+0:0:0:0:0:0:0:1 - - [15/Jul/2022:20:26:04 +0900] "GET /BBS/downloadAction?file=1%EC%A3%BC%EC%B0%A8+%EA%B3%BC%EC%A0%9C+-+2033051+%EC%9D%B4%EB%AF%BC%EC%98%812.pdf HTTP/1.1" 200 753437
